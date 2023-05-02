@@ -4,6 +4,7 @@ An **I**ntegrative **N**etwork **A**nalysis to quantify proteomic signatures of 
 <div align=center>
 ![Fig1](https://user-images.githubusercontent.com/95513476/235612678-c5009e7c-fc8f-4aac-8c3e-cee360e2a480.jpg)
 </div>
+![Fig2](https://user-images.githubusercontent.com/95513476/235612945-9bc094e3-e232-4e80-97e6-40b0dab1ff88.jpg)
 
 
 ### Usage
@@ -41,5 +42,4 @@ select_vertex <- read.xlsx('./Data/vertex.xlsx', colNames = T)
 seed2DEPs <- Shortest_path(select_vertex, proteome_net)
   ```
   
- #### Results 
- 
+ *For requirement of more data and code, please contact zhouziyun1900@hotmail.com*  
