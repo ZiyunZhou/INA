@@ -22,8 +22,7 @@ DEPs_net <- DEPs_net_construction(DEPs_protein, proteome_net)
 ranki <- ranking(expression, group)
 
 # Import the whole network into cytoscape to calculate the shortest path and degree
-topology_data <- read.csv("./Data/Sheet 1 default node.csv", header = T, 
-                          stringsAsFactors = F)
+topology_data <- read.csv("./Data/Sheet 1 default node.csv", header = T, stringsAsFactors = F)
 RN_score <- RNs(topology_data, ranki)
 RNs_net <- RNs_net_construction(RN_score, proteome_net, top_cut = 50)
   ```
