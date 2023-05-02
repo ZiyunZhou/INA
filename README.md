@@ -2,7 +2,8 @@
 
 An **I**ntegrative **N**etwork **A**nalysis to quantify proteomic signatures of cancer, including  PPIN construction, network module detection and annotation, and a shortest path-based algorithm.
 <div align=center>
-![Fig1](https://user-images.githubusercontent.com/95513476/235612678-c5009e7c-fc8f-4aac-8c3e-cee360e2a480.jpg)
+![Figure 1](https://user-images.githubusercontent.com/95513476/235614036-534e733d-1850-48f7-b6d4-88503a620cc5.jpg)
+ 
 </div>
 
 
