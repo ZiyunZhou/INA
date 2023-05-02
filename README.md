@@ -4,10 +4,12 @@ An **I**ntegrative **N**etwork **A**nalysis to quantify proteomic signatures of 
 <div align=center>
 ![Fig1](https://user-images.githubusercontent.com/95513476/235612678-c5009e7c-fc8f-4aac-8c3e-cee360e2a480.jpg)
 </div>
-![Fig2](https://user-images.githubusercontent.com/95513476/235612945-9bc094e3-e232-4e80-97e6-40b0dab1ff88.jpg)
 
 
 ### Usage
+<div align=center>
+![Fig2](https://user-images.githubusercontent.com/95513476/235612945-9bc094e3-e232-4e80-97e6-40b0dab1ff88.jpg)
+</div>
  #### 1) Import R packages and data in need
   ```
 library(INA)
